@@ -67,7 +67,7 @@ npm run dev   //运行项目服务  在浏览器：localhost:8080/   查看
 
 #### 首页
 
-![2](.\src\images\2.jpg)
+![2](\src\images\2.jpg)
 
 
 
