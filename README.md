@@ -73,12 +73,12 @@ npm run dev   //运行项目服务  在浏览器：localhost:8080/   查看
 
 #### 购物车
 
-![3](src\images\3.png)
+![3](./src/images/3.png)
 
 #### 图片展示
 
-![4](\src\images\4.png)
+![4](./src/images/4.png)
 
 #### 个人中心
 
-![5](.\src\images\5.png)
+![5](./src/images/5.png)
